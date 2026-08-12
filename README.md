@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=11vaijanti&label=Profile%20views&color=0e75b6&style=flat" alt="11vaijanti" /> </p>
 
 - 📫 Connect with me :  **rajurevaijanti@gmail.com**
-- 🖇️Linkedin : https://www.linkedin.com/in/vaijanti-rajure/
 
 
 
