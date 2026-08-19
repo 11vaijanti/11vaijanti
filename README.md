@@ -10,13 +10,6 @@
 
 <p align="left">
 
-<!-- Java -->
-
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-       alt="Java" width="40" height="40"/>
-</a>
-
 <!-- JDBC -->
 
 <a href="https://docs.oracle.com/javase/tutorial/jdbc/" target="_blank" rel="noreferrer">
@@ -29,20 +22,6 @@
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"
        alt="Hibernate" width="40" height="40"/>
-</a>
-
-<!-- Servlet / Jakarta EE -->
-
-<a href="https://jakarta.ee/specifications/servlet/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jakarta/jakarta-original.svg"
-       alt="Servlet" width="40" height="40"/>
-</a>
-
-<!-- Spring -->
-
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-       alt="Spring" width="40" height="40"/>
 </a>
 
 <!-- Spring Boot -->
