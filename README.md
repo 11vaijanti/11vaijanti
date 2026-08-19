@@ -23,16 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"
        alt="Hibernate" width="40" height="40"/>
 </a>
-
-<!-- Spring Boot -->
-
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/springboot/springboot-original.svg"
-       alt="Spring Boot" width="40" height="40"/>
-</a>
-
 <!-- Spring Security -->
-
 <a href="https://spring.io/projects/spring-security" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
        alt="Spring Security" width="40" height="40"/>
